@@ -1,0 +1,4 @@
+----- INVOICE -----
+Customer Name: Priya
+Product: Headphones
+Amount: 3000

@@ -1,0 +1,4 @@
+----- INVOICE -----
+Customer Name: Harshita
+Product: Laptop
+Amount: 55000

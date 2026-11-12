@@ -1,0 +1,4 @@
+----- INVOICE -----
+Customer Name: Rahul
+Product: Mobile
+Amount: 20000

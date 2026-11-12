@@ -1,0 +1,8 @@
+Unread Email Summary
+
+Amazon -> Your order has been shipped
+LinkedIn -> You have 5 new connections
+College -> RPA Lab Submission Reminder
+GitHub -> New pull request assigned
+Google -> Security alert detected
+Flipkart -> Big sale is live now!

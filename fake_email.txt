@@ -1,0 +1,7 @@
+RPA Lab – Email Automation    [Inbox]
+
+From: harshitau2105@gmail.com
+To: me
+
+This email was sent automatically using a Task Bot.
+Robotic Process Automation Laboratory.

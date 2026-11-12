@@ -1,0 +1,4 @@
+----- INVOICE -----
+Customer Name: Arjun
+Product: Tablet
+Amount: 15000
